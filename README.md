@@ -43,12 +43,13 @@ tp-creat/
 ├── package.json
 └── README.md
 
-!(C:\Users\hp\Downloads\Nouveau dossier/Structure du tp.png)
+<img width="960" height="402" alt="Structure du projet" src="https://github.com/user-attachments/assets/e41eba1b-fc03-4c47-bdbc-9b43089fff6c" />
+
 
 
 ##Implementation du tp 
 
-!(C:\Users\hp\Downloads\Nouveau dossier/TP1.png)
+<img width="960" height="507" alt="TP1" src="https://github.com/user-attachments/assets/1a9b1542-8f74-4124-82ce-94c2e1fb5a10" />
 
 
 - L’application sera disponible sur http://localhost:3000.
