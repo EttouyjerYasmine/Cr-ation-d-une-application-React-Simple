@@ -43,13 +43,12 @@ tp-creat/
 ├── package.json
 └── README.md
 
-<img width="960" height="402" alt="Structure du projet" src="https://github.com/user-attachments/assets/e41eba1b-fc03-4c47-bdbc-9b43089fff6c" />
-
+<img width="960" height="402" alt="Structure du projet" src="https://github.com/user-attachments/assets/abdf81f1-f846-4329-8814-481b005274ff" />
 
 
 ##Implementation du tp 
 
-<img width="960" height="507" alt="TP1" src="https://github.com/user-attachments/assets/1a9b1542-8f74-4124-82ce-94c2e1fb5a10" />
+<img width="960" height="507" alt="TP1" src="https://github.com/user-attachments/assets/a3e4acda-bbc1-40a8-864d-4b5cfc3064c7" />
 
 
 - L’application sera disponible sur http://localhost:3000.
